@@ -1,3 +1,5 @@
 git remote add origin git@github.com:tran-hung-18/LearnGit.git
 
 Update file
+
+- Edit from branch feature/test-conflict
